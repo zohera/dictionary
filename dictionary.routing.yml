@@ -1,0 +1,7 @@
+dictionary.form:
+    path: '/dictionary'
+    defaults:
+      _form: 'Drupal\dictionary\Form\DictionaryDefinitionForm'
+      _title: 'Dictionary'
+    requirements:
+       _permission: 'access dictionary page'

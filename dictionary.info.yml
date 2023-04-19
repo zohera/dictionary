@@ -1,0 +1,5 @@
+name: Dictionary
+description: A simple module to fetch definition of a word
+type: module
+core_version_requirement:  ^9
+version: 1.0.0
